@@ -26,8 +26,8 @@
 
 </div>
 </div>
+<p>HELLO WORLD</p>
 <!-- MBARIMI I PJESES SE BANNERIT POSHT MENUS -->
-<p>Ermir</p>
 <div class="productsHome">
 <div class="container">
 <?php echo do_shortcode('[products limit="4" columns="4" orderby="popularity" class="quick-sale" on_sale="true" ]
