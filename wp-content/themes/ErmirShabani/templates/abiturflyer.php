@@ -39,7 +39,7 @@ Template Name: Abiturflyer
                     Die Vorbereitung und der Unterricht
                     erfolgt auf Grundlage der GSO sowie des
                     bayerischen Lehrplans für Unterricht und
-                    Kultus.</p>
+                    Kultus.</p><p>GET COMMIT</p>
             </div>
             <!-- MBARIMI I KOLONES SE TRETE -->
 
